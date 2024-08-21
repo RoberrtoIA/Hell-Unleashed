@@ -1,84 +1,84 @@
 # Hell Unleashed - Doom 3 Mod
 
-**Hell Unleashed** es un mod de horror y supervivencia para Doom 3 que intensifica la experiencia de juego original, acercándose más a la intención de supervivencia que a la acción rápida de las primeras dos entregas. Sumergirá al **marine** en una atmósfera mucho más oscura y aterradora. Este mod ha sido diseñado para funcionar con el _source port_ **Dhewm 3** y utiliza la capa **Redux** como selector de interfaz. El mod está diseñado para funcionar con la versión de lanzamiento original del año 2004 y no con la relanzamiento de 2012, la BFG Edition. Esto se debe a que el Doom 3 original fue el último videojuego de ID Software en hacer su código abierto, lo que permite su funcionamiento con el _source port_ de la comunidad **Dhewm 3** para ejecutarlo con modificaciones. A diferencia de la BFG Edition, que no está diseñada para ser de código abierto.
+**Hell Unleashed** is a horror and survival mod for Doom 3 that intensifies the original gameplay experience, aligning more closely with the survival intent rather than the fast-paced action of the first two games. It plunges the **marine** into a much darker and more terrifying atmosphere. This mod is designed to work with the **Dhewm 3** *source port* and uses the **Redux** layer as an interface selector. The mod is intended to function with the original 2004 release version, not the 2012 re-release, the BFG Edition. This is because the original Doom 3 was the last ID Software game to have its source code made open, allowing it to run with the community's **Dhewm 3** *source port* for modding. In contrast, the BFG Edition is not designed to be open-source.
 
-**<a href="https://roberrtoia.github.io/Hell-Unleashed/" target="_blank">Weapon Showcase</a>**
+**[Weapon Showcase](https://roberrtoia.github.io/Hell-Unleashed/) **
 
-### Características Principales
+### Key Features
 
--   **Atmosfera Intensificada:** Este mod transforma Doom 3 en una experiencia de horror más extrema, con armas, un sistema de combate y enemigos reajustados para un gameplay más asfixiante.
+-   **Intensified Atmosphere:** This mod transforms Doom 3 into a more extreme horror experience, with weapons, combat system, and enemies rebalanced for a more suffocating gameplay.
     
--   **Compatibilidad con Dhewm 3:** **Hell Unleashed** ha sido desarrollado para ser jugado con el _source port_ Dhewm 3, lo que permite ejecutar mods externos simultáneamente.
+-   **Dhewm 3 Compatibility:** **Hell Unleashed** has been developed to be played with the Dhewm 3 *source port*, allowing external mods to be run simultaneously.
     
--   **Redux:** La capa Redux proporciona efectos y texturas actualizados a los estándares actuales, ofreciendo mejores efectos visuales y una proporción de 16:9 (el juego original se ejecutaba en un aspecto de 4:3). El mod se ejecuta seleccionando Redux en la pantalla de inicio. Aunque es posible ejecutarlo directamente con Dhewm 3, perderías las características de la capa Redux.
+-   **Redux:** The Redux layer provides updated effects and textures to current standards, offering better visuals and a 16:9 aspect ratio (the original game ran in a 4:3 aspect). The mod runs by selecting Redux from the start screen. While it’s possible to run it directly with Dhewm 3, you would lose the features provided by the Redux layer.
 
 
-## Requisitos del Sistema
+## System Requirements
 
--   **Sistema Operativo:** Windows XP, Vista, 8, 8.1 sin Redux. Windows 10 y 11 con Redux
--   **Doom 3:** Versión 1.3 o superior [Doom 3 Steam](https://store.steampowered.com/app/208200/DOOM_3/) 
--   **Dhewm 3:** Version 1.5.1 o superior [https://dhewm3.org](#)
+-   **Operating System:** Windows XP, Vista, 8, 8.1 without Redux. Windows 10 and 11 with Redux.
+-   **Doom 3:** Version 1.3 or higher [Doom 3 Steam](https://store.steampowered.com/app/208200/DOOM_3/)
+-   **Dhewm 3:** Version 1.5.1 or higher [https://dhewm3.org](#)
 -   **Redux:** [https://www.moddb.com/mods/doom-3-redux](#)
 
 
-## Instalación
+## Installation
 
-### 1. Instalar Dhewm 3
+### 1. Install Dhewm 3
 
-1.  Descarga la versión más reciente de **Dhewm 3** desde su repositorio oficial: [https://github.com/dhewm/dhewm3/releases/](#).
-2.  Extrae los archivos en una carpeta de tu elección.
-3.  Copia los archivos de Doom 3 desde la carpeta `base` (es decir, los archivos `pak000.pk4` a `pak008.pk4`) al directorio `base` de **Dhewm 3**.
-4.  Extrae el archivo del parche en la carpeta `base` de **Dhewm 3**.
-5.  Si deseas que Steam registre tus horas de juego y desbloquee logros, realiza este proceso en el directorio de instalación de Doom 3 de Steam.
-
-
-### 2. Configurar Redux
-
-1.  Descarga la **Redux** desde [https://www.moddb.com/mods/doom-3-redux](#).
-2.  Extrae los archivos y coloca la carpeta de Redux en el directorio raíz de **Dhewm 3**.
-3.  Para una guía más detallada, puedes ver el siguiente tutorial: https://www.youtube.com/watch?v=VSu2x41rHTQ&t=192s.
+1.  Download the latest version of **Dhewm 3** from its official repository: [https://github.com/dhewm/dhewm3/releases/](#).
+2.  Extract the files to a folder of your choice.
+3.  Copy the Doom 3 files from the `base` folder (i.e., the `pak000.pk4` to `pak008.pk4` files) into the `base` directory of **Dhewm 3**.
+4.  Extract the patch file into the `base` folder of **Dhewm 3**.
+5.  If you want Steam to track your playtime and unlock achievements, perform this process in the Doom 3 installation directory on Steam.
 
 
-### 3. Instalar Hell Unleashed
+### 2. Set up Redux
 
-1.  Descarga el mod **Hell Unleashed** desde el enlace de [Google Drive](https://drive.google.com/drive/folders/1SW7ppMkqu_keK48sNbnJqUiVwNlcCPJ6?usp=sharing) (los archivos son demasiado pesados para alojarlos en un repositorio de archivos como github).
-2.  Extrae el contenido en la carpeta dentro del directorio de **Dhewm 3**.
-3.  Inicia **Dhewm 3** y selecciona **Redux** desde el menú de selección de mods.
-4. En la carpeta `optional`, puedes colocar el archivo `zzzzzz_double_barrel_shotgun.pk4` en la carpeta `base` de **Dhewm 3** para acceder a la escopeta de doble cañón en los niveles `admin`, `delta4`, `delta5` y `hell1`. Aún está en una fase muy temprana de desarrollo. Arrastra consigo una versión antigua del HUD que no está en HD y solo permite seleccionar el arma con la rueda del ratón. Además, puede presentar algunos problemas de conteo de munición al llegar a 0 si aún hay munición en el cargador de la escopeta estándar.
-
-
-## Características Detalladas
-
-### Enemigos
-
-Enemigos rebalanceados para una experiencia de supervivencia. Se ha eliminado el efecto de `sacudida` al ser atacado y el daño ha sido aumentado para una mejor legibilidad del combate. El demonio `imp` ahora tiene un ataque doble. En general, los enemigos hacen más daño pero caen más rapido.
-
-### Armas y Equipamiento
-
-Re-balanceo de daño, munición, cargadores y estética de las armas. Ahora se cuenta con el clic izquierdo del ratón para apuntar, mientras que normalmente se disparará desde la cadera. Si se dispara desde la cadera, ahora existirá una dispersión, mientras que si se apunta, se reduce a casi 0. Ahora se incentiva más la exploración en los escenarios. Todas las armas tienen nuevos sonidos.
-
-1.  Pistola: Ahora usa 7 balas por cargador, con un total en el inventario de 28 balas, más las que se encuentran en el arma, sumando un total de 35 balas. El daño se ha incrementado significativamente, pero con mucha menos munición. Ahora se comporta como una magnum. La munición pequeña otorga 3 balas, y la munición grande otorga 5 balas.
-
-2.  Escopeta: Ahora usa 5 balas por cartuchos, con un total en el inventario de 25 cartuchos, más los que se encuentran en el arma, sumando un total de 30. Ahora es una escopeta verdaderamente funcional a corta y media distancia, con el daño aumentado en un 1.9x y una dispersión reducida en un 80%. La munición es ahora mucho más escasa para compensar su enorme efectividad. La munición pequeña otorga 1 cartucho y la munición grande otorga 3 cartuchos.
-
-3.  Ametralladora: 30 balas por cargador, con munición pequeña de 15 balas y munición grande de 20 balas, respectivamente. Daño aumentado en un 1.25x.
-
-4. Lanzacohetes: Ahora cuenta con 4 misiles por cargador, más 20 en el inventario. Daño aumentado en un 2x. La munición pequeña otorga 1 misil y la munición grande otorga 2 misiles.
-
-5. Cañón de cadena: Ronda de 60 balas en el arma, más 160 en el inventario. Daño reducido a 0.75x y velocidad de disparo aumentada a 2x.
-
-6. Granada: El número de granadas disponibles se ha reducido a 10. El rango de explosión ha sido aumentado a 2x.
-
-7. Fusil de plasma. Daño aumentado en un 1.65x. Cadencia reducida a 0.8x. Cargador de 35 proyectiles, con un inventario de 135 proyectiles. El cargador pequeño contiene 10 proyectiles, y el cargador grande 15 proyectiles.
-
-8. BFG: 4 cargas en el arma, más 16 en el inventario. Únicamente se ha modificado el sonido. El cargador pequeño otorga 1 proyectil, y el cargador grande 2 proyectiles.
-
-9. Cubo de las almas: Ahora se recarga con 3 enemigos en lugar de 5.
+1.  Download **Redux** from [https://www.moddb.com/mods/doom-3-redux](#).
+2.  Extract the files and place the Redux folder in the root directory of **Dhewm 3**.
+3.  For a more detailed guide, you can watch the following tutorial: https://www.youtube.com/watch?v=VSu2x41rHTQ&t=192s.
 
 
-### Mejoras gráficas
+### 3. Install Hell Unleashed
 
-Texturas mejoradas con IA:
+1.  Download the **Hell Unleashed** mod from the [Google Drive](https://drive.google.com/drive/folders/1SW7ppMkqu_keK48sNbnJqUiVwNlcCPJ6?usp=sharing) link (the files are too large to host on a file repository like GitHub).
+2.  Extract the content into the folder within the **Dhewm 3** directory.
+3.  Launch **Dhewm 3** and select **Redux** from the mod selection menu.
+4. In the `optional` folder, you can place the `zzzzzz_double_barrel_shotgun.pk4` file into the `base` folder of **Dhewm 3** to access the double-barrel shotgun in the `admin`, `delta4`, `delta5`, and `hell1` levels. It is still in a very early development stage. It includes an older version of the HUD that is not in HD and only allows weapon selection via the mouse wheel. Additionally, it may have some ammunition counting issues when reaching 0 if there is still ammo in the standard shotgun's magazine.
+
+
+## Detailed Features
+
+### Enemies
+
+Enemies have been rebalanced for a survival experience. The `shake` effect when being attacked has been removed, and damage has been increased for better combat readability. The `imp` demon now has a double attack. Overall, enemies deal more damage but are defeated more quickly.
+
+### Weapons and Equipment
+
+Rebalanced damage, ammunition, magazines, and aesthetics of the weapons. Left-click now allows aiming, while normally shooting will be from the hip. When shooting from the hip, there will be dispersion, whereas aiming reduces it to almost 0. Exploration in the environments is now encouraged more. All weapons have new sounds.
+
+1.  **Pistol:** Now uses 7 bullets per magazine, with a total inventory of 28 bullets, plus those in the weapon, totaling 35 bullets. Damage has been significantly increased but with much less ammunition. It now behaves like a magnum. Small ammo provides 3 bullets, and large ammo provides 5 bullets.
+
+2.  **Shotgun:** Now uses 5 shells per magazine, with a total inventory of 25 shells, plus those in the weapon, totaling 30. It is now a truly functional shotgun at short and medium ranges, with damage increased by 1.9x and dispersion reduced by 80%. Ammo is now much scarcer to compensate for its massive effectiveness. Small ammo provides 1 shell, and large ammo provides 3 shells.
+
+3.  **Machine Gun:** 30 bullets per magazine, with small ammo providing 15 bullets and large ammo providing 20 bullets. Damage increased by 1.25x.
+
+4. **Rocket Launcher:** Now has 4 missiles per magazine, plus 20 in the inventory. Damage increased by 2x. Small ammo provides 1 missile, and large ammo provides 2 missiles.
+
+5. **Chain Gun:** 60 rounds in the weapon, plus 160 in the inventory. Damage reduced to 0.75x and firing rate increased to 2x.
+
+6. **Grenade:** The number of available grenades has been reduced to 10. The explosion range has been increased to 2x.
+
+7. **Plasma Rifle:** Damage increased by 1.65x. Firing rate reduced to 0.8x. Magazine of 35 projectiles, with an inventory of 135 projectiles. The small magazine holds 10 projectiles, and the large magazine holds 15 projectiles.
+
+8. **BFG:** 4 charges in the weapon, plus 16 in the inventory. Only the sound has been modified. Small magazine provides 1 projectile, and large magazine provides 2 projectiles.
+
+9. **Soul Cube:** Now reloads with 3 enemies instead of 5
+
+
+### Graphics Enhancements
+
+AI-Enhanced Textures:
 
 ![Alt Text](https://github.com/RoberrtoIA/Hell-Unleashed/blob/main/Doom%203%20comparasion%201.gif)
 
