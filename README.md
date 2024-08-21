@@ -2,7 +2,7 @@
 
 **Hell Unleashed** is a horror and survival mod for Doom 3 that intensifies the original gameplay experience, aligning more closely with the survival intent rather than the fast-paced action of the first two games. It plunges the **marine** into a much darker and more terrifying atmosphere. This mod is designed to work with the **Dhewm 3** *source port* and uses the **Redux** layer as an interface selector. The mod is intended to function with the original 2004 release version, not the 2012 re-release, the BFG Edition. This is because the original Doom 3 was the last ID Software game to have its source code made open, allowing it to run with the community's **Dhewm 3** *source port* for modding. In contrast, the BFG Edition is not designed to be open-source.
 
-**[Weapon Showcase](https://roberrtoia.github.io/Hell-Unleashed/) **
+**[Weapon Showcase](https://roberrtoia.github.io/Hell-Unleashed/)**
 
 ### Key Features
 
