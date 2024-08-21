@@ -78,6 +78,6 @@ Re-balanceo de daño, munición, cargadores y estética de las armas. Ahora se c
 
 Texturas mejoradas con IA:
 
-![Alt Text](./Doom 3 comparasion 1.gif)
+![Alt Text]([./Doom 3 comparasion 1.gif](https://github.com/RoberrtoIA/Hell-Unleashed/blob/main/Doom%203%20comparasion%201.gif))
 
 ![Alt Text](./Doom 3 comparasion 2.gif)
