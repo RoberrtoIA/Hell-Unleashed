@@ -80,4 +80,4 @@ Texturas mejoradas con IA:
 
 ![Alt Text](https://github.com/RoberrtoIA/Hell-Unleashed/blob/main/Doom%203%20comparasion%201.gif)
 
-![Alt Text](./Doom 3 comparasion 2.gif)
+![Alt Text](https://github.com/RoberrtoIA/Hell-Unleashed/blob/main/Doom%203%20comparasion%201.gif)
